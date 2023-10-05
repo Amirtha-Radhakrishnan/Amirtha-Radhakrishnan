@@ -15,7 +15,7 @@ I'm a postgraduate student in physics with a passion for data analysis. I'm curr
 * Matplotlib
 * Numpy
 * Pandas
-* MS SQL Server
+* MS SQL Server: SSAS, SSIS, SSRS, T-SQL,SSMS
 * Power BI
 
  I'm looking to collaborate on
