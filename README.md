@@ -15,7 +15,7 @@ I'm a postgraduate student in physics with a passion for data analysis. I'm curr
 * Matplotlib
 * Numpy
 * Pandas
-* MS SQL Server: SSAS, SSIS, SSRS, T-SQL,SSMS
+* MS SQL Server:  T-SQL,SSMS
 * Power BI
 
  I'm looking to collaborate on
@@ -26,4 +26,5 @@ I'm a postgraduate student in physics with a passion for data analysis. I'm curr
 ## How to reach me
 
 * Email: amrithark2000@gmail.com
-* LinkedIn: https://www.linkedin.com/in/amirtha-radhakrishnan-0b438a262 
+* LinkedIn: https://www.linkedin.com/in/amirtha-radhakrishnan-0b438a262
+*portfolio website:  https://www.datascienceportfol.io/AmirthaRadhakrishnan
